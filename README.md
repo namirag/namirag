@@ -13,7 +13,10 @@ I'm a Full Stack Developer and Data Analyst based in Toronto, Canada, building w
 
 Languages
 
-<p> <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/C%23-0A192F?style=flat-square&logo=dotnet&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/SQL-0A192F?style=flat-square&logo=postgresql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/HTML5-0A192F?style=flat-square&logo=html5&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=flat-square&logo=css3&logoColor=64FFDA" /> </p>
+<p> <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/TypeScript-0A192F?style=flat-square&logo=typescript&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/C%23-0A192F?style=flat-square&logo=dotnet&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/SQL-0A192F?style=flat-square&logo=postgresql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/HTML5-0A192F?style=flat-square&logo=html5&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=flat-square&logo=css3&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=64FFDA" /> </p>
+Skill	Level
+<img src="https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=64FFDA" />	███████░░░ 70%
+<img src="https://img.shields.io/badge/React-0A192F?style=flat-square&logo=react&logoColor=64FFDA" />	███████░░░ 70%
 
 Frontend & Backend
 
